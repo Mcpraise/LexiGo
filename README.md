@@ -1,7 +1,7 @@
 
-# LexiGo
+# Rusty
 
-**LexiGo** is a machine learning model that translates spoken English into German. What truly distinguishes LexiGo from other translation software is its adaptability; it recognizes patterns in workplace conversations and provides tailored translations based on the specific topic of discussion.
+**Rusty** is a machine learning model that translates spoken English into German. What truly distinguishes LexiGo from other translation software is its adaptability; it recognizes patterns in workplace conversations and provides tailored translations based on the specific topic of discussion.
 
 Due to hardware limitations, I was only able to train the model on German, and I could not extend it to achieve state-of-the-art performance. However, I encourage you to fine-tune the model to suit your specific needs, and I hope it proves to be a valuable resource for your projects.
 
