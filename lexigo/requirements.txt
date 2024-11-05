@@ -1,4 +1,0 @@
-pandas
-torch
-accelerate
-transformers
